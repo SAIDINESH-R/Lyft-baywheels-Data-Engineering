@@ -76,4 +76,8 @@ Special thanks to @snkpgithub for project guidance and mentorship.
 
 Contact: [LinkedIn](https://www.linkedin.com/in/sai-dinesh-rachakonda-4b9767338/)
 
-## License
+## HAVE A LOOK AT MY DASHBOARD
+https://lookerstudio.google.com/reporting/82c6180c-d315-4a96-b182-16b9be86665f/page/OhabE
+
+## DOWNLOAD DATASET HERE
+[Clik here to download dataset](https://s3.amazonaws.com/baywheels-data/202411-baywheels-tripdata.csv.zip)
