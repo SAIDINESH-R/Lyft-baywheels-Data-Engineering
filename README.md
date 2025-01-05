@@ -43,7 +43,7 @@ bay-wheels-project
 │   └── dashboard.pdf
 ├── architecture
 │   └── gap_architecture.png
-└── README.md'''
+└── README.md
 
 ## Key Insights
 Analysis of 261,311 bike rides revealed:
