@@ -32,7 +32,7 @@ The star schema consists of:
 - SQL for data transformation
 
 ## Repository Structure
-python("""bay-wheels-project
+'''bay-wheels-project
 ├── notebooks
 │   └── data_transformation.ipynb
 ├── data_model
@@ -42,7 +42,7 @@ python("""bay-wheels-project
 │   └── dashboard.pdf
 ├── architecture
 │   └── gap_architecture.png
-└── README.md""")
+└── README.md'''
 
 ## Key Insights
 Analysis of 261,311 bike rides revealed:
