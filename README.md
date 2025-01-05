@@ -32,17 +32,17 @@ The star schema consists of:
 - SQL for data transformation
 
 ## Repository Structure
-bay-wheels-project/
-├── notebooks/
-│   └── data_transformation.ipynb
-├── data_model/
-│   ├── fact_table.sql
-│   └── dimensional_tables.sql
-├── visualizations/
-│   └── dashboard.pdf
-├── architecture/
-│   └── gap_architecture.png
-└── README.md
+\nbay-wheels-project/
+\n├── notebooks/
+\n│   └── data_transformation.ipynb
+\n├── data_model/
+\n│   ├── fact_table.sql
+\n│   └── dimensional_tables.sql
+\n├── visualizations/
+\n│   └── dashboard.pdf
+\n├── architecture/
+\n│   └── gap_architecture.png
+\n└── README.md
 
 ## Key Insights
 Analysis of 261,311 bike rides revealed:
