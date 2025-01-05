@@ -32,7 +32,7 @@ The star schema consists of:
 - SQL for data transformation
 
 ## Repository Structure
-python```
+```
 bay-wheels-project/
 ├── notebooks/
 │   └── data_transformation.ipynb
