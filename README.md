@@ -32,16 +32,15 @@ The star schema consists of:
 - SQL for data transformation
 
 ## Repository Structure
----
-bay-wheels-project
-├── notebooks
+bay-wheels-project/
+├── notebooks/
 │   └── data_transformation.ipynb
-├── data_model
+├── data_model/
 │   ├── fact_table.sql
 │   └── dimensional_tables.sql
-├── visualizations
+├── visualizations/
 │   └── dashboard.pdf
-├── architecture
+├── architecture/
 │   └── gap_architecture.png
 └── README.md
 
